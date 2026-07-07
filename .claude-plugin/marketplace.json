@@ -49,6 +49,118 @@
         "portfolio",
         "korean"
       ]
+    },
+    {
+      "name": "pg-payments",
+      "description": "PG·카드결제 연동의 멱등성·웹훅 서명검증·정산 대사·PCI-DSS 범위를 다루는 결제 대행 실전 패턴입니다.",
+      "source": "./plugins/pg-payments",
+      "category": "development",
+      "tags": [
+        "payments",
+        "payment-gateway",
+        "pg",
+        "idempotency",
+        "webhook",
+        "settlement",
+        "pci-dss",
+        "korea"
+      ]
+    },
+    {
+      "name": "three-3d-web",
+      "description": "Three.js·React Three Fiber로 3D/WebGL 웹을 만들 때의 프레임·바이트 예산, 모바일 폴백, reduced-motion을 정리한 성능 우선 패턴입니다.",
+      "source": "./plugins/three-3d-web",
+      "category": "development",
+      "tags": [
+        "3d",
+        "webgl",
+        "threejs",
+        "react-three-fiber",
+        "gltf",
+        "shader",
+        "performance",
+        "web"
+      ]
+    },
+    {
+      "name": "publisher-ad-revenue",
+      "description": "애드센스·네이버 애드포스트 등 퍼블리셔 광고 수익을 RPM·뷰어빌리티·배치·정책 준수 관점에서 최적화하는 패턴입니다.",
+      "source": "./plugins/publisher-ad-revenue",
+      "category": "productivity",
+      "tags": [
+        "adsense",
+        "ad-revenue",
+        "publisher",
+        "rpm",
+        "viewability",
+        "adfit",
+        "seo",
+        "korea"
+      ]
+    },
+    {
+      "name": "naver-blog-marketing",
+      "description": "네이버 생태계(블로그·스마트스토어·플레이스) SEO를 C-Rank·D.I.A+ 기준으로 다루는, 구글 SEO와 다른 마케팅 패턴입니다.",
+      "source": "./plugins/naver-blog-marketing",
+      "category": "productivity",
+      "tags": [
+        "naver",
+        "seo",
+        "blog",
+        "smartstore",
+        "c-rank",
+        "dia",
+        "marketing",
+        "korea"
+      ]
+    },
+    {
+      "name": "stock-research",
+      "description": "주식 데이터 수집·스크리너·백테스트를 다루는 리서치 패턴입니다. 룩어헤드·생존편향·과최적화 편향과 국내(KRX·DART)·미국 데이터 소스를 정리합니다.",
+      "source": "./plugins/stock-research",
+      "category": "development",
+      "tags": [
+        "stock",
+        "quant",
+        "backtesting",
+        "krx",
+        "dart",
+        "pandas-ta",
+        "finance",
+        "korea"
+      ]
+    },
+    {
+      "name": "crypto-stablecoin-card",
+      "description": "USDT·USDC 스테이블코인 카드(Visa·Master), 온·오프램프, 카드 발급 스택, 커스터디, KYC/AML/특금법(VASP)을 컴플라이언스 우선으로 다루는 패턴입니다.",
+      "source": "./plugins/crypto-stablecoin-card",
+      "category": "development",
+      "tags": [
+        "crypto",
+        "stablecoin",
+        "card-issuing",
+        "usdt",
+        "kyc-aml",
+        "on-off-ramp",
+        "vasp",
+        "web3"
+      ]
+    },
+    {
+      "name": "meta-ads-mcp",
+      "description": "메타(페이스북·인스타) 광고를 Marketing API/MCP로 자동화하는 패턴입니다. Meta MCP 또는 Marketing API 연결이 선행되어야 합니다.",
+      "source": "./plugins/meta-ads-mcp",
+      "category": "productivity",
+      "tags": [
+        "meta-ads",
+        "facebook-ads",
+        "instagram-ads",
+        "marketing-api",
+        "mcp",
+        "capi",
+        "roas",
+        "automation"
+      ]
     }
   ]
 }

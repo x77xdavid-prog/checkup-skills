@@ -1,0 +1,19 @@
+{
+  "name": "pg-payments",
+  "version": "1.0.0",
+  "description": "PG·카드결제 연동의 멱등성·웹훅 서명검증·정산 대사·PCI-DSS 범위를 다루는 결제 대행 실전 패턴입니다. 검증된 PG 어댑터 구조로 벤더 교체를 흡수합니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "payments",
+    "payment-gateway",
+    "pg",
+    "idempotency",
+    "webhook",
+    "settlement",
+    "pci-dss",
+    "korea"
+  ],
+  "license": "MIT"
+}

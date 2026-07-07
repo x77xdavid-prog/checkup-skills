@@ -1,0 +1,19 @@
+{
+  "name": "naver-blog-marketing",
+  "version": "1.0.0",
+  "description": "네이버 생태계(블로그·스마트스토어·플레이스) SEO를 C-Rank·D.I.A+ 기준으로 다루는 마케팅 패턴입니다. 구글 SEO와 근본적으로 다른 상위노출·저품질 회피를 정리합니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "naver",
+    "seo",
+    "blog",
+    "smartstore",
+    "c-rank",
+    "dia",
+    "marketing",
+    "korea"
+  ],
+  "license": "MIT"
+}

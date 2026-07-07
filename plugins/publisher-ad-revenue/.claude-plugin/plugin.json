@@ -1,0 +1,19 @@
+{
+  "name": "publisher-ad-revenue",
+  "version": "1.0.0",
+  "description": "애드센스·네이버 애드포스트 등 퍼블리셔 광고 수익을 RPM·뷰어빌리티·배치·정책 준수 관점에서 최적화하는 패턴입니다. CLS를 지키는 광고 배치를 포함합니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "adsense",
+    "ad-revenue",
+    "publisher",
+    "rpm",
+    "viewability",
+    "adfit",
+    "seo",
+    "korea"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "stock-research",
+  "version": "1.0.0",
+  "description": "주식 데이터 수집·스크리너·백테스트를 다루는 리서치 패턴입니다. 룩어헤드·생존편향·과최적화 세 편향과 국내(KRX·DART) 및 미국 시장 데이터 소스를 정리합니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "stock",
+    "quant",
+    "backtesting",
+    "krx",
+    "dart",
+    "pandas-ta",
+    "finance",
+    "korea"
+  ],
+  "license": "MIT"
+}

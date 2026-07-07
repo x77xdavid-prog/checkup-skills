@@ -1,0 +1,19 @@
+{
+  "name": "meta-ads-mcp",
+  "version": "1.0.0",
+  "description": "메타(페이스북·인스타) 광고를 Marketing API/MCP로 자동화하는 패턴입니다. 캠페인 계층·CAPI·ROAS 리포팅을 다루며, Meta MCP 또는 Marketing API 연결이 선행되어야 합니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "meta-ads",
+    "facebook-ads",
+    "instagram-ads",
+    "marketing-api",
+    "mcp",
+    "capi",
+    "roas",
+    "automation"
+  ],
+  "license": "MIT"
+}

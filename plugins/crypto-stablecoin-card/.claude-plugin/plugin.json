@@ -1,0 +1,19 @@
+{
+  "name": "crypto-stablecoin-card",
+  "version": "1.0.0",
+  "description": "USDT·USDC 스테이블코인 카드(Visa·Master), 온·오프램프, 카드 발급 스택, 커스터디, KYC/AML/트래블룰·특금법(VASP)을 컴플라이언스 우선으로 다루는 패턴입니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "crypto",
+    "stablecoin",
+    "card-issuing",
+    "usdt",
+    "kyc-aml",
+    "on-off-ramp",
+    "vasp",
+    "web3"
+  ],
+  "license": "MIT"
+}
