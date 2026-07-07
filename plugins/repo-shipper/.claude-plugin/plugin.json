@@ -1,0 +1,18 @@
+{
+  "name": "repo-shipper",
+  "version": "1.0.0",
+  "description": "GitHub repo를 공개 기준(description·LICENSE·README·CI·.env.example·.gitignore)으로 감사하고 빠진 부분만 채웁니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "repo",
+    "readme",
+    "license",
+    "ci",
+    "github",
+    "portfolio",
+    "korean"
+  ],
+  "license": "MIT"
+}

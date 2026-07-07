@@ -1,0 +1,18 @@
+{
+  "name": "korea-public-data",
+  "version": "1.0.0",
+  "description": "한국 공공데이터 API(공공데이터포털·온비드·법원경매·HIRA·청약홈·실거래가) 연동의 인증키·응답·페이징·좌표계·캐싱 함정을 정리한 실전 패턴입니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "public-data",
+    "korea",
+    "data-go-kr",
+    "onbid",
+    "hira",
+    "real-estate",
+    "api-integration"
+  ],
+  "license": "MIT"
+}
