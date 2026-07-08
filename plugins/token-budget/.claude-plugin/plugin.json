@@ -1,0 +1,16 @@
+{
+  "name": "token-budget",
+  "version": "1.0.0",
+  "description": "작업에 토큰 목표를 걸고 그 안에서 깊이를 조절하며 소비를 보고합니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "token-reduction",
+    "budget",
+    "cost",
+    "scope-control",
+    "korean"
+  ],
+  "license": "MIT"
+}

@@ -161,6 +161,86 @@
         "roas",
         "automation"
       ]
+    },
+    {
+      "name": "token-diet",
+      "description": "토큰 절감 지휘 스킬 — 상황에 맞는 절감 레버(입력·툴콜·출력·코드·예산)를 골라줍니다.",
+      "source": "./plugins/token-diet",
+      "category": "productivity",
+      "tags": [
+        "token-reduction",
+        "cost",
+        "efficiency",
+        "orchestrator",
+        "korean"
+      ]
+    },
+    {
+      "name": "lean-context",
+      "description": "입력·컨텍스트 토큰 절감 — 통째로 읽지 말고 위치를 찾아 필요한 줄만, 큰 건 서브에이전트 요약에 위임합니다.",
+      "source": "./plugins/lean-context",
+      "category": "productivity",
+      "tags": [
+        "token-reduction",
+        "context",
+        "input-tokens",
+        "subagent",
+        "efficiency",
+        "korean"
+      ]
+    },
+    {
+      "name": "quiet-tools",
+      "description": "툴콜 낭비 제거 — 재읽기·재확인 금지, 독립작업 병렬 배치, 나레이션 제거로 툴콜 오버헤드를 줄입니다.",
+      "source": "./plugins/quiet-tools",
+      "category": "productivity",
+      "tags": [
+        "token-reduction",
+        "tool-calls",
+        "parallel",
+        "efficiency",
+        "korean"
+      ]
+    },
+    {
+      "name": "no-restate",
+      "description": "반복 출력 제거 — 서두·맺음말·기확립 사실 재유도를 없앱니다(caveman보다 가벼운 출력 다이어트).",
+      "source": "./plugins/no-restate",
+      "category": "productivity",
+      "tags": [
+        "token-reduction",
+        "output",
+        "conciseness",
+        "no-preamble",
+        "korean"
+      ]
+    },
+    {
+      "name": "token-budget",
+      "description": "작업에 토큰 목표를 걸고 그 안에서 깊이를 조절하며 소비를 보고합니다.",
+      "source": "./plugins/token-budget",
+      "category": "productivity",
+      "tags": [
+        "token-reduction",
+        "budget",
+        "cost",
+        "scope-control",
+        "korean"
+      ]
+    },
+    {
+      "name": "skill-sync",
+      "description": "설치된 스킬을 원 출처에서 최신으로 업데이트(ff-only·diff 확인)하고 추가할 만한 신규 스킬을 발견합니다.",
+      "source": "./plugins/skill-sync",
+      "category": "tools",
+      "tags": [
+        "skills",
+        "update",
+        "git",
+        "marketplace",
+        "sync",
+        "tools"
+      ]
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "name": "quiet-tools",
+  "version": "1.0.0",
+  "description": "툴콜 낭비 제거 — 재읽기·재확인 금지, 독립작업 병렬 배치, 나레이션 제거로 툴콜 오버헤드를 줄입니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "token-reduction",
+    "tool-calls",
+    "parallel",
+    "efficiency",
+    "korean"
+  ],
+  "license": "MIT"
+}

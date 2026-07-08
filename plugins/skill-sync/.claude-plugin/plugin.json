@@ -1,0 +1,17 @@
+{
+  "name": "skill-sync",
+  "version": "1.0.0",
+  "description": "설치된 스킬을 원 출처에서 최신으로 업데이트(ff-only·diff 확인)하고 추가할 만한 신규 스킬을 발견합니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "skills",
+    "update",
+    "git",
+    "marketplace",
+    "sync",
+    "tools"
+  ],
+  "license": "MIT"
+}

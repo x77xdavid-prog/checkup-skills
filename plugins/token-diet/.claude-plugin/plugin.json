@@ -1,0 +1,16 @@
+{
+  "name": "token-diet",
+  "version": "1.0.0",
+  "description": "토큰 절감 지휘 스킬 — 상황에 맞는 절감 레버(입력·툴콜·출력·코드·예산)를 골라줍니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "token-reduction",
+    "cost",
+    "efficiency",
+    "orchestrator",
+    "korean"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "no-restate",
+  "version": "1.0.0",
+  "description": "반복 출력 제거 — 서두·맺음말·기확립 사실 재유도를 없앱니다(caveman보다 가벼운 출력 다이어트).",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "token-reduction",
+    "output",
+    "conciseness",
+    "no-preamble",
+    "korean"
+  ],
+  "license": "MIT"
+}

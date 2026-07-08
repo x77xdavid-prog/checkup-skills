@@ -1,0 +1,17 @@
+{
+  "name": "lean-context",
+  "version": "1.0.0",
+  "description": "입력·컨텍스트 토큰 절감 — 통째로 읽지 말고 위치를 찾아 필요한 줄만, 큰 건 서브에이전트 요약에 위임합니다.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "token-reduction",
+    "context",
+    "input-tokens",
+    "subagent",
+    "efficiency",
+    "korean"
+  ],
+  "license": "MIT"
+}
