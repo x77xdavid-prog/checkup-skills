@@ -1,0 +1,17 @@
+{
+  "name": "vibesec",
+  "version": "1.0.0",
+  "description": "This skill helps Claude write secure web applications. Use this when working on any web application or when a user requests a scan or audit to ensure security best practices are followed.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "security",
+    "secure-coding",
+    "web-security",
+    "owasp",
+    "audit",
+    "bug-hunter"
+  ],
+  "license": "MIT"
+}
