@@ -1,0 +1,17 @@
+{
+  "name": "ko-writer",
+  "version": "1.0.0",
+  "description": "블로그·업무 보고서·이메일 등 자연스러운 한국어 글을 번역투 없이 작성합니다. \"블로그 글 써줘\", \"보고서 초안 잡아줘\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "writing",
+    "korean-writing",
+    "blog",
+    "report",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}

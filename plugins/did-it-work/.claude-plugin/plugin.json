@@ -1,0 +1,17 @@
+{
+  "name": "did-it-work",
+  "version": "1.0.0",
+  "description": "스킬·플러그인·MCP 설치 후 \"됐는지 모르겠다\"를 증거 기반으로 검증해 판정합니다. \"설치 됐는지 확인해줘\", \"이거 작동하는 거야?\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "verification",
+    "install-check",
+    "mcp",
+    "troubleshooting",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "first-setup",
+  "version": "1.0.0",
+  "description": "Claude Code를 처음 설치하는 사람을 설치부터 첫 실행 성공까지 대화로 완주시킵니다. \"클로드 코드 설치하고 싶어\", \"설치가 안 돼요\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "installation",
+    "setup",
+    "onboarding",
+    "nodejs",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}

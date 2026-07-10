@@ -1,0 +1,17 @@
+{
+  "name": "excel-helper",
+  "version": "1.0.0",
+  "description": "엑셀·CSV 표 정리, 수식, 요약, 차트를 원본 파일을 보존하며 비개발자 언어로 돕습니다. \"이 엑셀 정리해줘\", \"월별로 집계해줘\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "excel",
+    "csv",
+    "spreadsheet",
+    "data-cleaning",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}

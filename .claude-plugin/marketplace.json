@@ -255,6 +255,62 @@
         "audit",
         "bug-hunter"
       ]
+    },
+    {
+      "name": "first-setup",
+      "description": "Claude Code를 처음 설치하는 사람을 설치부터 첫 실행 성공까지 대화로 완주시킵니다. \"클로드 코드 설치하고 싶어\", \"설치가 안 돼요\" 같은 요청에 사용.",
+      "source": "./plugins/first-setup",
+      "category": "productivity",
+      "tags": [
+        "installation",
+        "setup",
+        "onboarding",
+        "nodejs",
+        "korean",
+        "beginner"
+      ]
+    },
+    {
+      "name": "ko-writer",
+      "description": "블로그·업무 보고서·이메일 등 자연스러운 한국어 글을 번역투 없이 작성합니다. \"블로그 글 써줘\", \"보고서 초안 잡아줘\" 같은 요청에 사용.",
+      "source": "./plugins/ko-writer",
+      "category": "writing",
+      "tags": [
+        "writing",
+        "korean-writing",
+        "blog",
+        "report",
+        "korean",
+        "beginner"
+      ]
+    },
+    {
+      "name": "excel-helper",
+      "description": "엑셀·CSV 표 정리, 수식, 요약, 차트를 원본 파일을 보존하며 비개발자 언어로 돕습니다. \"이 엑셀 정리해줘\", \"월별로 집계해줘\" 같은 요청에 사용.",
+      "source": "./plugins/excel-helper",
+      "category": "data",
+      "tags": [
+        "excel",
+        "csv",
+        "spreadsheet",
+        "data-cleaning",
+        "korean",
+        "beginner"
+      ]
+    },
+    {
+      "name": "did-it-work",
+      "description": "스킬·플러그인·MCP 설치 후 \"됐는지 모르겠다\"를 증거 기반으로 검증해 판정합니다. \"설치 됐는지 확인해줘\", \"이거 작동하는 거야?\" 같은 요청에 사용.",
+      "source": "./plugins/did-it-work",
+      "category": "testing",
+      "tags": [
+        "verification",
+        "install-check",
+        "mcp",
+        "troubleshooting",
+        "korean",
+        "beginner"
+      ]
     }
   ]
 }
