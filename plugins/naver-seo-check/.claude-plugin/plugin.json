@@ -1,0 +1,17 @@
+{
+  "name": "naver-seo-check",
+  "version": "1.0.0",
+  "description": "네이버 검색 기준으로 블로그 글·웹페이지를 진단하고 개선 우선순위를 처방합니다. \"네이버 상위노출 진단해줘\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "naver",
+    "seo",
+    "diagnosis",
+    "blog",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "meeting-actions",
+  "version": "1.0.0",
+  "description": "회의록·녹취 텍스트를 붙여넣으면 결정사항·액션아이템(담당·기한)·미결 이슈로 정리합니다. \"회의록 정리해줘\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "meeting",
+    "minutes",
+    "action-items",
+    "summary",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}

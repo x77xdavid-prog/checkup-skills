@@ -1,0 +1,17 @@
+{
+  "name": "ppt-draft",
+  "version": "1.0.0",
+  "description": "주제만 주면 발표자료(PPT) 초안을 목차→슬라이드 구성→발표 노트까지 만듭니다. \"발표자료 만들어줘\", \"PPT 초안 잡아줘\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "presentation",
+    "ppt",
+    "slides",
+    "storyline",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}
