@@ -1,0 +1,17 @@
+{
+  "name": "youtube-script",
+  "version": "1.0.0",
+  "description": "유튜브 영상 대본을 도입 훅부터 마무리 CTA까지 구조로 만들어 줍니다. \"유튜브 대본 써줘\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "youtube",
+    "script",
+    "video",
+    "hook",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}

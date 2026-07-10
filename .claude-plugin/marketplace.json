@@ -353,6 +353,34 @@
         "korean",
         "beginner"
       ]
+    },
+    {
+      "name": "youtube-script",
+      "description": "유튜브 영상 대본을 도입 훅부터 마무리 CTA까지 구조로 만들어 줍니다. \"유튜브 대본 써줘\" 같은 요청에 사용.",
+      "source": "./plugins/youtube-script",
+      "category": "writing",
+      "tags": [
+        "youtube",
+        "script",
+        "video",
+        "hook",
+        "korean",
+        "beginner"
+      ]
+    },
+    {
+      "name": "no-git-backup",
+      "description": "git을 몰라도 작업물을 안전하게 지키는 백업 습관을 잡아 줍니다. \"백업 어떻게 해요\" 같은 요청에 사용.",
+      "source": "./plugins/no-git-backup",
+      "category": "productivity",
+      "tags": [
+        "backup",
+        "zip",
+        "snapshot",
+        "restore",
+        "korean",
+        "beginner"
+      ]
     }
   ]
 }

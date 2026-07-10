@@ -1,0 +1,17 @@
+{
+  "name": "no-git-backup",
+  "version": "1.0.0",
+  "description": "git을 몰라도 작업물을 안전하게 지키는 백업 습관을 잡아 줍니다. \"백업 어떻게 해요\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "backup",
+    "zip",
+    "snapshot",
+    "restore",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}
