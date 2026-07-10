@@ -1,0 +1,17 @@
+{
+  "name": "budget-log",
+  "version": "1.0.0",
+  "description": "지출·수입을 파일에 기록하고 월간 합계를 검산해 정리하는 가계부 도우미입니다. \"오늘 쓴 돈 기록해줘\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "budget",
+    "expense",
+    "household",
+    "csv",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "resume-coach",
+  "version": "1.0.0",
+  "description": "이력서·자기소개서를 지어내지 않고 사용자가 준 사실만으로 개선하는 코치입니다. \"이력서 봐줘\", \"자소서 다듬어줘\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "resume",
+    "cover-letter",
+    "career",
+    "coaching",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}

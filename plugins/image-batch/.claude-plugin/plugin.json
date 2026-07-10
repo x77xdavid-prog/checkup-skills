@@ -1,0 +1,17 @@
+{
+  "name": "image-batch",
+  "version": "1.0.0",
+  "description": "폴더 안 이미지 수십·수백 장을 원본을 보존하며 한 번에 리사이즈·형식 변환·이름 변경·용량 압축합니다. \"사진 전부 줄여줘\", \"이미지 일괄 변환해줘\" 같은 요청에 사용.",
+  "author": {
+    "name": "x77xdavid-prog"
+  },
+  "keywords": [
+    "image",
+    "batch",
+    "resize",
+    "convert",
+    "korean",
+    "beginner"
+  ],
+  "license": "MIT"
+}
